@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a geek who has been tech leading teams for about 10 years and who occassionally writes some code.
+I am a software developer who has been tech leading teams for about 10 years and who occassionally writes some code.
 Bit of a fan of functional programming.
 This site is dedicated to software development topics - both technical and around running of teams.
 
